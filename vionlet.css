@@ -1,0 +1,11 @@
+#biggy{display: flex;
+    justify-content:space-around;
+    background-color: black;
+    color: whitesmoke;}
+a{color: whitesmoke;}
+body{background-image: url(bad.jpg) ;}
+ol{color:lightblue;font-size: 25px; font-family:fantasy }
+p{color: aqua;font-size: 25px; font-family:fantasy}
+h1{color:aqua;
+display: flex;
+justify-content: center;}
