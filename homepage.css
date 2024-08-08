@@ -1,0 +1,51 @@
+body{
+    background-image: url(background.jpg);
+}
+#bag{
+  display:flex ;
+  justify-content: space-around;
+  background-color: black;
+  color: ghostwhite;
+}
+a{color: ghostwhite;}
+h5{color:burlywood;}
+ol{color:rgb(99, 0, 20); }
+h1{
+text-align: center;
+color: white;
+}
+.button {
+    transition-duration: 0.4s;
+  }
+  .button:hover {
+    background-color:rgb(43, 226, 116); /* blueviolet */
+    color: white;
+    font-size: 50px;
+  }
+  p{
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color:blueviolet;
+  }
+   p{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  }
+   p{
+    width: 2000px;
+    height: 110px;
+    background-color: coral;
+    overflow: visible;
+  }
+  .biggggy{
+    display: flex;
+    justify-content: center;
+  }
+
+#jenneyisfat{
+    display: flex;
+    justify-content: center;
+}
+#violence{
+    display: flex;
+    justify-content: center;
+}

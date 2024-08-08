@@ -3,9 +3,45 @@
     background-color: black;
     color: whitesmoke;}
 a{color: whitesmoke;}
-body{background-image: url(bad.jpg) ;}
+body{background-image: url(bad.jpg) ;
+    background-size:contain;}
 ol{color:lightblue;font-size: 25px; font-family:fantasy }
 p{color: aqua;font-size: 25px; font-family:fantasy}
 h1{color:aqua;
 display: flex;
 justify-content: center;}
+.button {
+    transition-duration: 0.4s;
+  }
+  
+  .button:hover {
+    background-color:blueviolet; /* blueviolet */
+    color: white;
+    font-size: 50px;
+  }
+  p{
+    border: 2px solid black;
+    outline-style: solid;
+    outline-color:blueviolet;
+  }
+   p{
+    text-shadow: 0 0 3px #FF0000, 0 0 5px #0000FF;
+  }
+   p{
+    width: 2300px;
+    height: 300px;
+    background-color: coral;
+    overflow: visible;
+  }
+  h1 {
+    text-shadow: 2px 2px;
+  }
+ #bigggy{
+    display: flex;
+    justify-content:center;
+ }
+ #roblox{
+ display: flex;
+    justify-content:center;
+ }
+ 
